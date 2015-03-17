@@ -1,0 +1,106 @@
+ // Bourbon & Neat
+@import '../../bower_components/bourbon/dist/bourbon';
+@import '../../bower_components/neat/app/assets/stylesheets/neat';
+
+// Custom Styles
+body{
+  background-color: black;
+}
+#flash{
+  width:200px;
+  height:500px;
+  p{
+    color: red;
+  }
+}
+h1{
+  color: white;
+  position: fixed;
+    right: 20px;
+}
+
+#B{
+  font-family: Russo One;
+  color: red;
+  text-align: center;
+  position:relative;
+    top: -30px;
+    left:50px;
+  border-color: grey grey red grey;
+  font-size: 50px;
+  border-top-style: double;
+  border-bottom-style: solid;
+  border-right-style: double;
+  border-left-style: solid;
+  border-radius: 50%;
+  border-width: 30px;
+  color: blue;
+}
+#E{
+  font-family: Russo One;
+  color: green;
+  text-align: center;
+  position:relative;
+    left:200px;
+    top: -50px;
+    border-color: grey grey red grey;
+    font-size: 50px;
+    border-top-style: double;
+    border-bottom-style: solid;
+    border-right-style: double;
+    border-left-style: solid;
+  border-radius: 50%;
+  border-width: 30px;
+  color: blue;
+}
+#C{
+  font-family: Russo One;
+  color: green;
+  text-align: center;
+  position:relative;
+    left:350px;
+    top: -70px;
+    border-color: grey grey red grey;
+    font-size: 50px;
+    border-top-style: double;
+    border-bottom-style: solid;
+    border-right-style: double;
+    border-left-style: solid;
+  border-radius: 50%;
+  border-width: 30px;
+  color: blue;
+}
+#C2{
+  font-family: Russo One;
+  color: green;
+  text-align: center;
+  position:relative;
+    left:500px;
+    top: -100px;
+    border-color: grey grey red grey;
+    font-size: 50px;
+    border-top-style: double;
+    border-bottom-style: solid;
+    border-right-style: double;
+    border-left-style: solid;
+  border-radius: 50%;
+  border-width: 30px;
+  color: blue;
+}
+#A{
+  font-family: Russo One;
+  color: green;
+  text-align: center;
+  position:relative;
+    left:650px;
+    top: -130px;
+    border-color: grey grey red grey;
+    font-size: 50px;
+    border-top-style: double;
+    border-bottom-style: solid;
+    border-right-style: double;
+    border-left-style: solid;
+  border-radius: 50%;
+  border-width: 30px;
+  color: blue;
+}
